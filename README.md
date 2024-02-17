@@ -30,12 +30,7 @@ https://drive.google.com/file/d/1QJZjZzLFUW_MaqSKDEULPQzgYi7G0g2r/view?usp=shari
 
 - Display Booking Details: Displays the details of the bookings made by users, including the name of the user, the number of tickets booked, and other relevant information. This feature allows users to view their booking history and track their reservations.
 
-## design decisions or assumptions
-List your design desissions & assumptions
-
 ## Installation & Getting started
-
-
 1. Clone the repository:
 
    ```bash
